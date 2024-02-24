@@ -1,1 +1,11 @@
 # Lab-Compu-Grafica
+
+NOMBRE COMPLETO: Razo Villeda Fernando
+
+No de Cuenta: 318299475
+
+GRUPO DE LABORATORIO: 2
+
+GRUPO DE TEORÍA: 4
+
+SEMESTRE 2024-2
