@@ -1,0 +1,27 @@
+﻿  practica3.cpp
+C:\Cosas que ocupo\UNAM\Semestre 8\Lab Compu Gráfica\P3\Project3\Project3\Window.h(12,36): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "practica3.cpp")
+  
+C:\Cosas que ocupo\UNAM\Semestre 8\Lab Compu Gráfica\P3\Project3\Project3\Window.h(13,37): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "practica3.cpp")
+  
+C:\Cosas que ocupo\UNAM\Semestre 8\Lab Compu Gráfica\P3\Project3\Project3\practica3.cpp(27,36): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Cosas que ocupo\UNAM\Semestre 8\Lab Compu Gráfica\P3\Project3\Project3\practica3.cpp(195,16): warning C4018: '<': no coinciden signed/unsigned
+C:\Cosas que ocupo\UNAM\Semestre 8\Lab Compu Gráfica\P3\Project3\Project3\practica3.cpp(237,32): warning C4244: 'argumento': conversión de 'double' a '_Ty'; posible pérdida de datos
+C:\Cosas que ocupo\UNAM\Semestre 8\Lab Compu Gráfica\P3\Project3\Project3\practica3.cpp(237,32): warning C4244:         with
+C:\Cosas que ocupo\UNAM\Semestre 8\Lab Compu Gráfica\P3\Project3\Project3\practica3.cpp(237,32): warning C4244:         [
+C:\Cosas que ocupo\UNAM\Semestre 8\Lab Compu Gráfica\P3\Project3\Project3\practica3.cpp(237,32): warning C4244:             _Ty=GLfloat
+C:\Cosas que ocupo\UNAM\Semestre 8\Lab Compu Gráfica\P3\Project3\Project3\practica3.cpp(237,32): warning C4244:         ]
+C:\Cosas que ocupo\UNAM\Semestre 8\Lab Compu Gráfica\P3\Project3\Project3\practica3.cpp(239,32): warning C4244: 'argumento': conversión de 'double' a '_Ty'; posible pérdida de datos
+C:\Cosas que ocupo\UNAM\Semestre 8\Lab Compu Gráfica\P3\Project3\Project3\practica3.cpp(239,32): warning C4244:         with
+C:\Cosas que ocupo\UNAM\Semestre 8\Lab Compu Gráfica\P3\Project3\Project3\practica3.cpp(239,32): warning C4244:         [
+C:\Cosas que ocupo\UNAM\Semestre 8\Lab Compu Gráfica\P3\Project3\Project3\practica3.cpp(239,32): warning C4244:             _Ty=GLfloat
+C:\Cosas que ocupo\UNAM\Semestre 8\Lab Compu Gráfica\P3\Project3\Project3\practica3.cpp(239,32): warning C4244:         ]
+C:\Cosas que ocupo\UNAM\Semestre 8\Lab Compu Gráfica\P3\Project3\Project3\practica3.cpp(337,15): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Cosas que ocupo\UNAM\Semestre 8\Lab Compu Gráfica\P3\Project3\Project3\practica3.cpp(339,33): warning C4244: '+=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+  Generando código
+  0 of 604 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Generación de código finalizada
+  Project3.vcxproj -> C:\Cosas que ocupo\UNAM\Semestre 8\Lab Compu Gráfica\P3\Project3\Release\Project3.exe
